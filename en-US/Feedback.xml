@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='utf-8' ?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
 ]>
-<section><title>We Need Feedback!</title><indexterm><primary>feedback1</primary><secondary>contact information for this brand</secondary></indexterm><para>
-For any issues, questions, problems concerning this document please
-contact the admins of the Cloud Area Padovana at cloud-support@lists.pd.infn.it.</para></section>
+<section>
+	<title>We Need Feedback!</title>
+	<indexterm>
+		<primary>feedback1</primary>
+		<secondary>contact information for this brand</secondary>
+	</indexterm>
+	<para>
+		For any issues, questions, problems concerning this document please contact the CloudVeneto admins at</para>
+        <para><email>cedc-support@lists.pd.infn.it</email>
+	</para>
+</section>
+
+
